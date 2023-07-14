@@ -1,10 +1,22 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUzMjFjMzkxZTYxM2FhMzE1ZWQxNTJjNWQ1NGU0NWQ1MTUzNGI3NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ZeLcIBH7lKfLOkaBRH/giphy.gif" width="50"> Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# <img src="https://github.com/agathaappb/agathaappb/blob/main/img/welcome_img.png?raw=true"> 
 
-> Me chamo Agatha, sou desenvolvedora Android.
-<p> <a href="https://www.linkedin.com/in/agatha-alana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </p>
-<img src="https://media.tenor.com/F0JE157P1loAAAAC/mio-akiyama-computer.gif">
+# Sobre Mim
+<p> Tenho experiência trabalhando com android nativo, utilizando as linguagens de programação Kotlin e Java; realizei implementações com activity, fragments, webview, modularização, Google Analytics, consumo de api, testes unitários, gerenciamento de recursos com feature toggle, documentação técnica e ambientes dockerizados. Também possuo conhecimento em arquitetura MVVM e básico em Jetpack Compose.
+</p>
 
-#### Linguegens e ferramentas
+<p> Sou formada em engenharia da computação pela Universidade de Sorocaba - Uniso; também tenho formação técnica em eletroeletronica pelo Senai Antônio Ermírio de Moraes.</p>
+<p>- 🌱 Atualmente estou estudando sobre Jetpack Compose </p>
+<p>- 🔭 Estou em busca de uma nova oportunidade no mercado de trabalho
+<p>- 📖 Estou lendo o livro: Código limpo: Habilidades práticas do Agile Software - autor: Robert C. Martin  </p>
+<p>- 📖 Estou lendo o livro: Código limpo: O poder do hábito - autor: Charles Duhigg  </p>
+
+## Contato
+<div style="display: inline_block"><br>
+<a href="https://www.linkedin.com/in/agatha-alana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:agatha.alana@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
+</div>
+
+## Linguegens e ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
@@ -15,3 +27,24 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agathaappb&hide_progress=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=agathaappb&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=agathaappb&theme=onedark)](https://github.com/agathaappb/github-profile-trophy)
+
+<div align="center">
+<img src="https://media.tenor.com/F0JE157P1loAAAAC/mio-akiyama-computer.gif" >
+</div>
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
