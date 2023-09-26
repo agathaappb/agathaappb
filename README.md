@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agathaappb&hide_progress=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=agathaappb&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=agathaappb&theme=onedark)](https://github.com/agathaappb/github-profile-trophy)
+
 
 <div align="center">
 <img src="https://media.tenor.com/F0JE157P1loAAAAC/mio-akiyama-computer.gif" >
@@ -47,4 +47,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=agathaappb&theme=onedark)](https://github.com/agathaappb/github-profile-trophy)
 -->
