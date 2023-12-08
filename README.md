@@ -5,10 +5,8 @@
 </p>
 
 <p> Sou formada em engenharia da computação pela Universidade de Sorocaba - Uniso; também tenho formação técnica em eletroeletronica pelo Senai Antônio Ermírio de Moraes.</p>
-<p>- 🌱 Atualmente estou estudando sobre Jetpack Compose </p>
-<p>- 🔭 Estou em busca de uma nova oportunidade no mercado de trabalho
-<p>- 📖 Estou lendo o livro: Código limpo: Habilidades práticas do Agile Software - autor: Robert C. Martin  </p>
-<p>- 📖 Estou lendo o livro: Código limpo: O poder do hábito - autor: Charles Duhigg  </p>
+<p>- 🌱 Atualmente estou estudando sobre arquitetura MVVM </p>
+
 
 ## Contato
 <div style="display: inline_block"><br>
