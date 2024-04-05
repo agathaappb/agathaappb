@@ -1,12 +1,13 @@
 # <img src="https://github.com/agathaappb/agathaappb/blob/main/img/welcome_img.png?raw=true"> 
 
-# Sobre Mim
+# Sobre Mim 
 <p> Tenho experiência trabalhando com android nativo, utilizando as linguagens de programação Kotlin e Java; realizei implementações com activity, fragments, webview, modularização, Google Analytics, consumo de api, testes unitários, gerenciamento de recursos com feature toggle, documentação técnica e ambientes dockerizados. Também possuo conhecimento em arquitetura MVVM e básico em Jetpack Compose.
 </p>
 
 <p> Sou formada em engenharia da computação pela Universidade de Sorocaba - Uniso; também tenho formação técnica em eletroeletronica pelo Senai Antônio Ermírio de Moraes.</p>
-<p>- 🌱 Atualmente estou estudando sobre arquitetura MVVM </p>
+<p>🌱 Atualmente estou estudando sobre arquitetura MVVM </p>
 
+## 🌱 Blog: [Guia do mochileiro android](https://agathaalana.hashnode.dev/) 
 
 ## Contato
 <div style="display: inline_block"><br>
